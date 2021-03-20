@@ -19,7 +19,7 @@ if uploaded_file is not None:
 
         if st.button('predict'):
                 st.write("Result...")
-                label = classify.predict(uploaded_file)
+                label = classify.predict(image)
                 label = [round(i * 100) for i in label]
                 label = [str(i) + ' %' for i in label]
                 st.write(pd.DataFrame({
