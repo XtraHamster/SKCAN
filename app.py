@@ -2,7 +2,7 @@ from numpy.random import seed
 seed(101)
 
 import pandas as pd
-import numpy as np
+#import numpy as np
 import keras
 from keras import backend as K
 
@@ -19,9 +19,9 @@ import os
 
 from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
-import itertools
-import shutil
-import matplotlib.pyplot as plt
+#import itertools
+#import shutil
+#import matplotlib.pyplot as plt
 
 cm_plot_labels = ['akiec', 'bcc', 'bkl', 'df', 'mel','nv', 'vasc']
 
