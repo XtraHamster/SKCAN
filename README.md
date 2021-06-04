@@ -1,15 +1,9 @@
 # SKCAN
 ## SKin CANcer recognition app made for my bachelor thesis
 
-## App:
-- Link: 
-
-
-
 ## App Output
 
 ## Project overview
-
 
 
 ## Dataset:
@@ -38,10 +32,12 @@ This has all the dependencies required to deploy our application on Heroku
 ## Run this app on your system.
 ### Requirements
 - Python 3.6+
-- NumPy
-- Pillow
-- TensorFlow 2.x
-- Streamlit 
+- NumPy 1.19.5
+- Pillow 8.1.2
+- TensorFlow-cpu 2.3.0
+- Streamlit 0.78.0
+- Pandas 1.1.3
+- Plotly 4.14.3
 
 ### To run it on your system
 - Install all the dependencies
