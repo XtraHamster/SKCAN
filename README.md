@@ -15,6 +15,10 @@
 ## Dataset:
 https://arxiv.org/abs/1902.03368
 
+## Directories descriptions
+#### Model
+- contains trained model used in classify.py
+
 ## Files for our Streamlit App
 
 #### classify.py
