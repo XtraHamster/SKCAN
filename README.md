@@ -1,5 +1,5 @@
-#SKCAN
-##SKin CANcer recognition app made for my bachelor thesis
+# SKCAN
+## SKin CANcer recognition app made for my bachelor thesis
 
 ## App:
 - Link: 
