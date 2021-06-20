@@ -1,16 +1,14 @@
-# SKCAN
-## SKin CANcer recognition app made for my bachelor thesis
+# SKCAN - SKin CANcer recognition app
+
+This app was made for my bachelor thesis on CTU in Prague. Full title of my bachelor thesis is "Skin cancer classification using machine learning algorithms". Main object was to make classification model for recognizing 7 types of skin lesions. As a superstructure for the model, I created this simple application for easy and quick testing
 
 ## App Output
 Final result - diagnosis of the probability of seven diseases of skin lesions
 
 ![image](https://user-images.githubusercontent.com/60604602/122686800-74c1c680-d213-11eb-8682-6235ac99b821.png)
 
-
-## Project overview
-
-
 ## Dataset:
+For training my model I used this dataset called "HAM10000" which contains over 10000 pictures of skin leisons.
 https://arxiv.org/abs/1902.03368
 
 ## Directories descriptions
