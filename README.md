@@ -2,6 +2,8 @@
 ## SKin CANcer recognition app made for my bachelor thesis
 
 ## App Output
+![image](https://user-images.githubusercontent.com/60604602/122686800-74c1c680-d213-11eb-8682-6235ac99b821.png)
+
 
 ## Project overview
 
