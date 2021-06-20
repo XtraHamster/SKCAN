@@ -2,6 +2,9 @@
 
 This app was made for my bachelor thesis on CTU in Prague. Full title of my bachelor thesis is "Skin cancer classification using machine learning algorithms". Main object was to make classification model for recognizing 7 types of skin lesions. As a superstructure for the model, I created this simple application for easy and quick testing
 
+## App
+Application is available on URL: skcan.herokuapp.com
+
 ## App Output
 Final result - diagnosis of the probability of seven diseases of skin lesions
 
