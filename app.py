@@ -69,7 +69,7 @@ app_formal_name = "SKCAN"
 
 # Start the app in wide-mode
 st.set_page_config(
-    layout="wide", page_title=app_formal_name,
+    layout="centered", page_title=app_formal_name,
 )
 
 st.title("SKCAN")
